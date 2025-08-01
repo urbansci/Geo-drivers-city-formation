@@ -1,0 +1,202 @@
+{
+  "cn-pref": {
+    "Attribute": {
+      "max_depth": 9,
+      "learning_rate": 0.0064,
+      "gamma": 12,
+      "min_child_weight": 0,
+      "reg_alpha": 9.0392,
+      "reg_lambda": 6.4439,
+      "colsample_bytree": 0.7732,
+      "scale_pos_weight": 5,
+      "n_estimators": 1000,
+      "subsample": 0.6450
+    },
+    "Climate_embedding": {
+      "max_depth": 5,
+      "learning_rate": 0.0082,
+      "gamma": 12,
+      "min_child_weight": 0,
+      "reg_alpha": 4.1758,
+      "reg_lambda": 8.6975,
+      "colsample_bytree": 0.8433,
+      "scale_pos_weight": 5,
+      "n_estimators": 2000,
+      "subsample": 0.7240
+    },
+    "DEM_Water_embedding": {
+      "max_depth": 5,
+      "learning_rate": 0.0097,
+      "gamma": 4,
+      "min_child_weight": 6,
+      "reg_alpha": 9.1714,
+      "reg_lambda": 3.5846,
+      "colsample_bytree": 0.7889,
+      "scale_pos_weight": 10,
+      "n_estimators": 3500,
+      "subsample": 0.8970
+    },
+    "All_embedding_Agriculture": {
+      "max_depth": 7,
+      "learning_rate": 0.0063,
+      "gamma": 8,
+      "min_child_weight": 2,
+      "reg_alpha": 6.8229,
+      "reg_lambda": 8.5684,
+      "colsample_bytree": 0.9270,
+      "scale_pos_weight": 5,
+      "n_estimators": 5500,
+      "subsample": 0.7050
+    },
+    "All_embedding": {
+      "max_depth": 9,
+      "learning_rate": 0.0058,
+      "gamma": 4,
+      "min_child_weight": 6,
+      "reg_alpha": 3.9324,
+      "reg_lambda": 9.3482,
+      "colsample_bytree": 0.8666,
+      "scale_pos_weight": 10,
+      "n_estimators": 3500,
+      "subsample": 0.7190
+    }
+  },
+  "cn-walled": {
+    "Attribute": {
+      "max_depth": 7,
+      "learning_rate": 0.0060,
+      "gamma": 8,
+      "min_child_weight": 4,
+      "reg_alpha": 6.2119,
+      "reg_lambda": 0.0134,
+      "colsample_bytree": 0.9637,
+      "scale_pos_weight": 5,
+      "n_estimators": 1000,
+      "subsample": 0.7760
+    },
+    "Climate_embedding": {
+      "max_depth": 5,
+      "learning_rate": 0.0066,
+      "gamma": 12,
+      "min_child_weight": 4,
+      "reg_alpha": 9.0085,
+      "reg_lambda": 9.0462,
+      "colsample_bytree": 0.7199,
+      "scale_pos_weight": 5,
+      "n_estimators": 2000,
+      "subsample": 0.7320
+    },
+    "DEM_Water_embedding": {
+      "max_depth": 5,
+      "learning_rate": 0.0071,
+      "gamma": 4,
+      "min_child_weight": 4,
+      "reg_alpha": 9.1933,
+      "reg_lambda": 1.0141,
+      "colsample_bytree": 0.9777,
+      "scale_pos_weight": 15,
+      "n_estimators": 2000,
+      "subsample": 0.7290
+    },
+    "All_embedding_Agriculture": {
+      "max_depth": 11,
+      "learning_rate": 0.0066,
+      "gamma": 4,
+      "min_child_weight": 4,
+      "reg_alpha": 8.7399,
+      "reg_lambda": 1.0383,
+      "colsample_bytree": 0.7134,
+      "scale_pos_weight": 5,
+      "n_estimators": 3000,
+      "subsample": 0.6730
+    },
+    "All_embedding": {
+      "max_depth": 7,
+      "learning_rate": 0.0075,
+      "gamma": 4,
+      "min_child_weight": 4,
+      "reg_alpha": 8.1235,
+      "reg_lambda": 1.0243,
+      "colsample_bytree": 0.7149,
+      "scale_pos_weight": 10,
+      "n_estimators": 3000,
+      "subsample": 0.7030
+    }
+  },
+  "eu": {
+    "Attribute": {
+      "max_depth": 9,
+      "learning_rate": 0.0061,
+      "gamma": 12,
+      "min_child_weight": 4,
+      "reg_alpha": 9.7528,
+      "reg_lambda": 7.1125,
+      "colsample_bytree": 0.7160,
+      "scale_pos_weight": 5,
+      "n_estimators": 3000,
+      "subsample": 0.6190
+    },
+    "Climate_embedding": {
+      "max_depth": 7,
+      "learning_rate": 0.0053,
+      "gamma": 4,
+      "min_child_weight": 0,
+      "reg_alpha": 8.1012,
+      "reg_lambda": 4.1621,
+      "colsample_bytree": 0.7249,
+      "scale_pos_weight": 5,
+      "n_estimators": 2000,
+      "subsample": 0.7870
+    },
+    "DEM_Water_embedding": {
+      "max_depth": 5,
+      "learning_rate": 0.0106,
+      "gamma": 4,
+      "min_child_weight": 6,
+      "reg_alpha": 8.8506,
+      "reg_lambda": 6.2947,
+      "colsample_bytree": 0.9389,
+      "scale_pos_weight": 10,
+      "n_estimators": 2000,
+      "subsample": 0.9000
+    },
+    "All_embedding_Agriculture": {
+      "max_depth": 7,
+      "learning_rate": 0.0071,
+      "gamma": 4,
+      "min_child_weight": 6,
+      "reg_alpha": 8.9173,
+      "reg_lambda": 1.9261,
+      "colsample_bytree": 0.9878,
+      "scale_pos_weight": 5,
+      "n_estimators": 6000,
+      "subsample": 0.6930
+    },
+    "All_embedding": {
+      "max_depth": 5,
+      "learning_rate": 0.0178,
+      "gamma": 0,
+      "min_child_weight": 8,
+      "reg_alpha": 8.7467,
+      "reg_lambda": 4.1531,
+      "colsample_bytree": 0.9355,
+      "scale_pos_weight": 5,
+      "n_estimators": 4500,
+      "subsample": 0.6910
+    }
+  },
+  "eu-cn": {
+    "All_embedding": {
+      "max_depth": 5,
+      "learning_rate": 0.0060,
+      "gamma": 4,
+      "min_child_weight": 6,
+      "reg_alpha": 3.9324,
+      "reg_lambda": 9.3482,
+      "colsample_bytree": 0.972142239,
+      "scale_pos_weight": 10,
+      "n_estimators": 6000,
+      "subsample": 0.6184
+        }
+    }
+}

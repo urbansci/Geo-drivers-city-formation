@@ -10,8 +10,6 @@ This repository contains the implementation and data for the paper:
 ## Repository Structure
 
 ```
-├──data/
-│
 └──codes/                                   
       ├── data_processing/                       
       │   ├── 2nd_nature_geography/               # Second nature geography calculations

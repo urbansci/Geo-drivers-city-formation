@@ -2,7 +2,8 @@
 
 This repository contains the implementation and data for the paper:
 >**Self-supervised learning reveals the geographical drivers of city formation**
-Weiyu Zhang, Junjie Yang, Lei Dong∗, and Yu Liu∗
+>
+>Weiyu Zhang, Lei Dong∗, Junjie Yang, and Yu Liu∗
 >  
 >**Abstract:** The genesis of cities manifests the profound influence of geography on human civilization. However, precisely quantifying how complex geographical configurations influence where cities emerged remains a challenge. Here, we employ self-supervised learning models pretrained on topography, hydrology, and climate data to distill geographical configurations into rich vector embeddings. Analysis of Eurasian cities via these embeddings reveals the enduring high but scale-specific influence of terrain, hydrology, and climate, with climate operating at macro-scales while terrain-hydrology determines micro-scale suitability. This micro-scale influence is evident that cities exhibit intensive preference for specific landscapes, with 54\% of cities favoring planar areas and 27\% occupying transitional zones like foothills. Temporally, we find that fluctuations in geography’s influence coincide with historical temperature variations, peaking at climatic optima like the Tang and early-Ming dynasties in China. This study offers a quantitative framework for understanding geography's role in city formation and projecting urban suitability under future climate scenarios.
 

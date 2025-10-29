@@ -66,7 +66,7 @@ This repository contains the implementation and data for the paper:
    - Chinese walled cities (1368-1911 CE): https://doi.org/10.6084/m9.figshare.14112968.v3
 
 ### Processed Data
-Our processed datasets include geographical embeddings from self-supervised learning models, manual geographical features, and spatially verified historical city data. See our data repository (which will be publicly available after peer review) for more details. 
+Our processed datasets include geographical embeddings from self-supervised learning models, manual geographical features, and spatially verified historical city data. See our [data repository](https://bit.ly/Data-geo-drivers-city-formation).
 
 ## Workflow
 ### Step 1: Image dataset construction
